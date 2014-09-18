@@ -6,4 +6,4 @@
 
 <p>The opposite of this is an advanced feature, the "Do Not Show Me" textbox.  It would be something like this...</p>
 
-<h3>Don't show me users with these words in their profile: {Example: straight acting, not all men, ...}</h3>
+<h3>Don't show me users with these words in their profile: {Example: straight acting, not all men, Ayn Rand ...}</h3>
