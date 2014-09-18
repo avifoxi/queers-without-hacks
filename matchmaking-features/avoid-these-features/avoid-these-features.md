@@ -3,5 +3,5 @@
 <ul>
 	<li>Weight</li>
 	<li>Height</li>
-	<li>Ethnicity (Except for POC-Only View)</li>
+	<li>Ethnicity in a creepy racist way or possibly at all</li>
 </ul>
