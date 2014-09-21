@@ -9,6 +9,6 @@ Creator of this repository, nester of folders, maker of puns. Rapidly learning R
 Insert your info here.
 </p>
 
-### Avi Fox-Rosen. @avifoxrosen
+### Avi Fox-Rosen. [@avifoxrosen](https://twitter.com/avifoxrosen)
 
-Friend of Lucian, DBC grad. RoR, newly hatched FullStack dev, particular interests in front end frameworks and web audio. Cis, bi, ally, looking to learn. 
+Friend of Lucian, DBC grad. RoR, newly hatched FullStack dev, particular interests in front end frameworks and web audio. Cis, bi, ally, looking to learn. Also lifelong music maker, bread baker.
